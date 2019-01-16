@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:comments xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            mc:Ignorable="w14 w15 wp14">
+    <w:comment w:id="0" w:author="Admin" w:date="2018-11-30T17:52:00Z" w:initials="A">
+        <w:p w14:paraId="3FE5B4E6" w14:textId="0EECB13A" w:rsidR="004E51AF" w:rsidRDefault="004E51AF">
+            <w:pPr>
+                <w:pStyle w:val="CommentText"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="CommentReference"/>
+                </w:rPr>
+                <w:annotationRef/>
+            </w:r>
+            <w:r>
+                <w:t>Hello world</w:t>
+            </w:r>
+            <w:bookmarkStart w:id="1" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="1"/>
+        </w:p>
+    </w:comment>
+    <w:comment w:id="2" w:author="Admin" w:date="2018-11-30T16:53:00Z" w:initials="A">
+        <w:p w14:paraId="4CFA5553" w14:textId="77777777" w:rsidR="00E16620" w:rsidRDefault="00E16620"
+             w:rsidP="00E16620">
+            <w:pPr>
+                <w:pStyle w:val="CommentText"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rStyle w:val="CommentReference"/>
+                </w:rPr>
+                <w:annotationRef/>
+            </w:r>
+            <w:r>
+                <w:t>[[[Comment]]]</w:t>
+            </w:r>
+        </w:p>
+    </w:comment>
+</w:comments>
